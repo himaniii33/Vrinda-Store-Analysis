@@ -12,4 +12,4 @@ This project  includes Sales Analysis of a Store by creating an interactive dash
 *Conclusion* -
 To increase the sales, Store should-
 1) Advertise themselves in Various Social Media platforms/Sites.
-2)Target women customers of age group (30-49 years) by providing coupons/offers in online shopping platforms like Amazon,Myntra & Flipkart.
+2) Target women customers of age group (30-49 years) by providing coupons/offers in online shopping platforms like Amazon,Myntra & Flipkart.
